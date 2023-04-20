@@ -31,3 +31,5 @@ class _NewPage1 extends StatelessWidget {
       ),
     );
   }
+}
+
